@@ -5,10 +5,15 @@ Bitra Hemanth
 Bitra Hemanth
 
 /*Contact*/
-Github : github.com/hemanth22
+Github : https://github.com/hemanth22
 Facebook : https://www.facebook.com/hemanthbitra
 LinkedIn : https://in.linkedin.com/in/hemanthbitra
 Email : hemanthbitra@bitroid.in
+
+/*Blogs*/
+
+WordPress : https://hemanth22hemu.wordpress.com/
+Blogspot : http://hemanth22hemublogs.blogspot.in/
 
 /*Technology*/
 
