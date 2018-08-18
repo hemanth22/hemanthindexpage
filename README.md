@@ -7,3 +7,4 @@ Link: https://hemanth22.github.io/hemanthindexpage/
 [![AppVeyor](godaddydomain-passed-brightgree.png)]()
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4ca2187c4824c02a2b7a7a8ad0ff0b2)](https://www.codacy.com/app/hemanth22hemu/hemanthindexpage?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hemanth22/hemanthindexpage&amp;utm_campaign=Badge_Grade)
 [![Website bitroid.in](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://bitroid.in)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/hemanth22)
