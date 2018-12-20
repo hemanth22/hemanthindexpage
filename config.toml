@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Bitra Hemanth"
+theme = "aerial"
+
+[params]
+  name = "Bitra Hemanth"
+  about = "Production Support Analyst &nbsp;&bull;&nbsp; Société Générale Global Solution Center &nbsp;&nbsp;"
+  copyright = "Bitra Hemanth"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://in.linkedin.com/in/hemanthbitra"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/hemanthbitra"
+
+[[params.social]]
+  medium = "Wordpress"
+  icon = "wordpress"
+  link = "https://hemanth22hemu.wordpress.com/"
+
+[[params.social]]
+  medium = "Skype"
+  icon = "skype"
+  link = "skype:hemanthbitra_2?call"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/hemanth22"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:hemanthbitra@bitroid.in"
+
+[[params.social]]
+  medium = "Resume"
+  icon = "file-word"
+  link = "https://gist.github.com/hemanth22/39b903c7c05460b556ee3f9c71fede2b"
